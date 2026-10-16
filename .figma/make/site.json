@@ -1,0 +1,10 @@
+{
+  "description": "Showcases interactive portfolio projects with engaging animations across multiple pages to highlight creative work effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
